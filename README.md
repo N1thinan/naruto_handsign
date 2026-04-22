@@ -8,3 +8,5 @@ using mediapipe to extract hand landmark; to classify into 13 different pose for
 if streamlit feels laggy
 `run.bat --opencv`
 
+## Preview
+![GIF](./assets/testing_vid.gif)
